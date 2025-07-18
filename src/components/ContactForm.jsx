@@ -55,6 +55,7 @@ const HeroForm = () => {
       const response = await axios.post(
         "https://hook.us2.make.com/bascfs3261khn967o26qqjwpco7dkjl7",
         dataToSend
+        
       );
 
       if (response.status === 200) {
