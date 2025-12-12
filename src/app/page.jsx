@@ -100,7 +100,6 @@ const Page = () => {
       <TestimonialCarousel />
       <FaqSection />
       <FactoryCta />
-      <Footer />
     </div>
   );
 };
